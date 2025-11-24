@@ -1,0 +1,27 @@
+{
+  "name": "auto-json-db",
+  "version": "1.0.0",
+  "description": "Simple in-memory JSON database with automatic periodic persistence to disk",
+  "main": "jsondb.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "json",
+    "database",
+    "storage",
+    "auto-save",
+    "persist",
+    "file"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cfreshman/jsondb"
+  },
+  "author": "cfreshman",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
+
