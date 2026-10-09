@@ -1,6 +1,6 @@
 {
   "name": "auto-json-db",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Simple in-memory JSON database with automatic periodic persistence to disk",
   "main": "jsondb.js",
   "scripts": {
